@@ -1,0 +1,5 @@
+print("Welcome to my new projecy")
+name = input("please Enter your name ")
+print("Hi," + name + " ")
+age = int(input("How old are you " + name + " ?"))
+print("you are " + name + " and you are " + str(age) + " years old")
